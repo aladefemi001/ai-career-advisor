@@ -1,4 +1,4 @@
-
+!pip install streamlit plotly pandas pyngrok
 # AI Career Path Advisor - Streamlit App with Interactive Dashboard
 
 import streamlit as st
