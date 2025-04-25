@@ -1,6 +1,5 @@
 !pip install streamlit 
-!pip install plotly 
-!pip install pandas 
+!pip install plotly  
 !pip install pyngrok
 # AI Career Path Advisor - Streamlit App with Interactive Dashboard
 
